@@ -6,12 +6,21 @@ I myself am interested in growing as an engineer and this type of program has sh
 ## General Topics
 
 Multiple languages  
+Front-end  
+Back-end  
+CI/CD  
+Source control  
+Code Reviews  
+Requirements gathering  
+Soft skills  
 Building from scratch  
 Blogging and teaching  
 DevOps  
 Security  
+AI  
 SOLID Principles  
 TDD  
+DDD  
 Large final project  
 
 ## Resources
