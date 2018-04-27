@@ -8,11 +8,11 @@ I myself am interested in growing as an engineer and this type of program has sh
 Multiple languages  
 Building from scratch  
 Blogging and teaching  
-DevOps
-Security
-SOLID Principles
-TDD
-Large final project
+DevOps  
+Security  
+SOLID Principles  
+TDD  
+Large final project  
 
 ## Resources
 
