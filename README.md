@@ -3,29 +3,47 @@ I've become very interested in Software Apprenticeship programs and what these t
 
 I myself am interested in growing as an engineer and this type of program has shown me a framework to follow in order to do that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I've also more recently started a "Software Crafters" Meetup group in the community. Along with that I've started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
 
-## General Topics
+## General Topic Ideas
 
-Multiple languages  
-Front-end  
-Back-end  
-CI/CD  
-Source control  
-Code Reviews  
-Requirements gathering  
-Soft skills  
-Building from scratch  
-Blogging and teaching  
-DevOps  
-Security  
-AI  
-SOLID Principles  
-TDD  
-DDD  
-Large final project  
+* Multiple languages  
+  * C/C++
+  * JavaScript
+  * Python
+  * Swift
+  * Go
+  * Java
+  * C#
+  * Ruby/Rails
+  * PHP
+  * SQL
+* Front-end  
+  * Bootstrap
+  * Foundation
+* Back-end  
+* CI/CD  
+* Source control  
+* Code reviews  
+* Requirements gathering  
+* Soft skills  
+* Building from scratch  
+  * Mobile App
+  * Website
+  * Desktop App
+* Blogging and teaching  
+* DevOps  
+* Task runners
+* Security  
+* AI  
+* SOLID Principles  
+* TDD  
+* DDD  
+* Large final project  
 
 ## Resources
 
-WeDoTDD.com has a great listing of companies which have apprenticeship programs. You can find more information here: http://www.wedotdd.com/  
-8th Light is the first company which I learned of which promotes this type of program. You can find more information about them and their program here: https://8thlight.com/apprenticeship/  
-Apprenticeship Patterns is a book which has been recommended to me by several people. It's available on Amazon and other outlets: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382  
-The Weirrich Institute of Software is a program more geared toward experienced software professionals looking to grow and expand their expertise. This is actually also developed by 8th Light: https://www.weirichinstitute.com/  
+* WeDoTDD.com has a great listing of companies which have apprenticeship programs. You can find more information here: http://www.wedotdd.com/  
+* 8th Light is the first company which I learned of which promotes this type of program. You can find more information about them and their program here: https://8thlight.com/apprenticeship/  
+* Apprenticeship Patterns is a book which has been recommended to me by several people. It's available on Amazon and other outlets: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382  
+* The Weirrich Institute of Software is a program more geared toward experienced software professionals looking to grow and expand their expertise. This is actually also developed by 8th Light: https://www.weirichinstitute.com/  
+
+* Eric Smith of 8th Light discusses software apprenticeships and how they could help train people to be programmers: https://vimeo.com/266604194
