@@ -19,7 +19,11 @@ I myself am interested in growing as an engineer and this type of program has sh
 * Front-end  
   * Bootstrap
   * Foundation
+  * CSS
+  * HTML
+  * jQuery
 * Back-end  
+* DBA  
 * CI/CD  
 * Source control  
 * Code reviews  
@@ -34,6 +38,7 @@ I myself am interested in growing as an engineer and this type of program has sh
 * Task runners
 * Security  
 * AI  
+* Networking  
 * SOLID Principles  
 * TDD  
 * DDD  
@@ -45,5 +50,4 @@ I myself am interested in growing as an engineer and this type of program has sh
 * 8th Light is the first company which I learned of which promotes this type of program. You can find more information about them and their program here: https://8thlight.com/apprenticeship/  
 * Apprenticeship Patterns is a book which has been recommended to me by several people. It's available on Amazon and other outlets: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382  
 * The Weirrich Institute of Software is a program more geared toward experienced software professionals looking to grow and expand their expertise. This is actually also developed by 8th Light: https://www.weirichinstitute.com/  
-
-* Eric Smith of 8th Light discusses software apprenticeships and how they could help train people to be programmers: https://vimeo.com/266604194
+* Eric Smith of 8th Light discusses software apprenticeships and how they could help train people to be software professionals: https://vimeo.com/266604194  
