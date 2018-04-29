@@ -1,5 +1,5 @@
 # Software Apprenticeship Framework
-I've become very interested in Software Apprenticeship programs and what these teach people. Some programs are developed to help new hires get up to speed at a particular company. Others are designed to take your programming skills to the next level. This sounds similar to a coding bootcamp however instead of focusing on a particular language or framework these programs go wider than that and bring in multiple languages, lots of reading, a teaching component, and mentoring. This repo will be a collection of relevant articles concerning Software Apprenticeships and will grow into an "open source apprenticeship program" with time.  
+I've become very interested in Software Apprenticeship programs and what these teach people. Some programs are developed to help new hires get up to speed at a particular company. Others are designed to take your programming skills to the next level. This sounds similar to a coding boot camp however instead of focusing on a particular language or framework these programs go wider than that and bring in multiple languages, lots of reading, a teaching component, and mentoring. This repo will be a collection of relevant articles concerning Software Apprenticeships and will grow into an "open source apprenticeship program" with time.  
 
 I myself am interested in growing as an engineer and this type of program has shown me a framework to follow in order to do that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I've also more recently started a "Software Crafters" Meetup group in the community. Along with that I've started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
 
@@ -24,6 +24,10 @@ I myself am interested in growing as an engineer and this type of program has sh
   * jQuery
 * Back-end  
 * DBA  
+* Development Methodologies
+  * Agile (XP, Scrum, Kanban)
+  * Waterfall
+* UML
 * CI/CD  
 * Source control  
 * Code reviews  
