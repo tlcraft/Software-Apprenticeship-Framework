@@ -56,10 +56,10 @@ I myself am interested in growing as an engineer and this type of program has sh
 * Networking  
 * SOLID Principles  
 * TDD  
- * Testing Methodologies  
+  * Testing Methodologies    
 * DDD  
 * Large final project  
- * Combination of everything
+  * Combination of everything  
 
 ## Resources
 
