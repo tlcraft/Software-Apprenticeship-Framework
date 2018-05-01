@@ -22,8 +22,10 @@ I myself am interested in growing as an engineer and this type of program has sh
   * CSS
   * HTML
   * jQuery
+  * AngularJS
   * Accessibility
 * Back-end  
+ * Node.js
 * DBA  
 * Development Methodologies
   * Agile (XP, Scrum, Kanban)
@@ -45,14 +47,19 @@ I myself am interested in growing as an engineer and this type of program has sh
   * Desktop App
 * Blogging and teaching  
 * DevOps  
+* AWS  
+* Docker
+* Kubernetes  
 * Task runners
 * Security  
 * AI  
 * Networking  
 * SOLID Principles  
 * TDD  
+ * Testing Methodologies  
 * DDD  
 * Large final project  
+ * Combination of everything
 
 ## Resources
 
