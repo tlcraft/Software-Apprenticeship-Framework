@@ -8,6 +8,8 @@ I myself am interested in growing as an engineer and this type of program has sh
 
 Review a given topic and gather an overview of important points with some basic fundamentals. Then work through larger tutorials to get practical experience. Then build a small project using what you've learned. Rinse and repeat for each topic. Larger projects will incorporate several topics together. Such as building a personal website which would encompass full-stack web development, for example, HTML, CSS, JavaScript, accessibility, server-side code and design.
 
+Write about what you're learning and doing with blog posts and/or other media.
+
 ## General Topic Ideas
 
 * Multiple languages  
