@@ -35,6 +35,8 @@ I myself am interested in growing as an engineer and this type of program has sh
 * Source control  
 * Code reviews  
 * Requirements gathering  
+* Data Structures and Algorithms
+* Theory
 * Soft skills  
   * Inclusion 
   * Diversity 
@@ -52,8 +54,10 @@ I myself am interested in growing as an engineer and this type of program has sh
 * Kubernetes  
 * Task runners
 * Security  
+  * Kali Linux
 * AI  
 * Networking  
+* Microcontrollers
 * SOLID Principles  
 * TDD  
   * Testing Methodologies    
