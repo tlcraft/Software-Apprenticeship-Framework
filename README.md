@@ -66,6 +66,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Kali Linux
 * AI  
 * Networking  
+* Blockchain
 * Microcontrollers
 * Design Patterns
 * OOD  
@@ -75,6 +76,19 @@ Write about what you're learning and doing with blog posts and/or other media.
 * DDD  
 * Large final project  
   * Combination of everything  
+
+## Books
+
+* Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+* The Pragmatic Programmer by Andy Hunt and Dave Thomas
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell
+* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm
+* Working Effectively with Legacy Code by Michael C. Feathers
+* Refactoring: Improving the Design of Existing Code by Martin Fowler
+* The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+* Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
+* Emotional Intelligence 2.0 by Travis Bradberry
 
 ## Resources
 
