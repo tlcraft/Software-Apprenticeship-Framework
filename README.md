@@ -25,6 +25,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Ruby/Rails
   * PHP
   * SQL
+  * Assembly
 * Front-end  
   * Bootstrap
   * Foundation
@@ -66,7 +67,9 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Kali Linux
 * AI  
 * Networking  
+* WebSockets
 * Blockchain
+* Cryptography
 * Microcontrollers
 * Design Patterns
 * OOD  
@@ -89,6 +92,9 @@ Write about what you're learning and doing with blog posts and/or other media.
 * The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis
 * Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 * Emotional Intelligence 2.0 by Travis Bradberry
+
+* C Programming Language, 2nd Edition by Brian Kernighan and Dennis Ritchie
+* JavaScript: The Good Parts by Douglas Crockford
 
 ## Resources
 
