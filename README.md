@@ -4,7 +4,9 @@ I've become very interested in Software Apprenticeship programs and what these t
 
 I myself am interested in growing as an engineer and this type of program has shown me a framework to follow in order to do that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I've also more recently started a Software Crafters Meetup group in the community. Along with that I've started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
 
-Ultimately I think you only need to do one thing and that is: practice continuous lifelong learning. Commit to spending time several hours a week or more to learning something new or practicing. In time you'll pick up a lot of things and start connecting the dots among many disparate ideas. Stay true to fundamental things, for example in our context of software, writing tests and building things to be extensible and reusable. If one has a solid fundamental base and is always learning I don't think you can go wrong with that.
+Ultimately I think you only need to do one thing and that is: practice continuous lifelong learning. Commit to spending time several hours a week or more to learning something new or practicing. In time you'll pick up a lot of things and start connecting the dots among many disparate ideas. Stay true to fundamental things, for example in our context of software, writing tests and building things to be extensible and reusable. If one has a solid fundamental base and is always learning I don't think you can go wrong with that. 
+
+While you won't remember every detail unless you spend a lot of time with a particular concept the bits and pieces you do retain will help in the future when working on a project that does use those tools. Beyond that they will fill your "toolbox" with concepts you may not have learned otherwise which can be applied elsewhere when the time is right. If nothing else you may find a particular topic very interesting and fun and decide to pursue it over the others throughout your career.
 
 ## General format
 
@@ -92,6 +94,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis
 * Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 * Emotional Intelligence 2.0 by Travis Bradberry
+
+### Programming Language Books
 
 * C Programming Language, 2nd Edition by Brian Kernighan and Dennis Ritchie
 * JavaScript: The Good Parts by Douglas Crockford
