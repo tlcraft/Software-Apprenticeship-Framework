@@ -98,6 +98,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 
 ## Resources
 
+* freeCodeCamp.org has a great program for learning many concepts around web and software development
 * WeDoTDD.com has a great listing of companies which have apprenticeship programs. You can find more information here: http://www.wedotdd.com/  
 * 8th Light is the first company which I learned of which promotes this type of program. You can find more information about them and their program here: https://8thlight.com/apprenticeship/  
 * Apprenticeship Patterns is a book which has been recommended to me by several people. It's available on Amazon and other outlets: https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382  
