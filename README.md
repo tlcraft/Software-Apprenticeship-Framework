@@ -36,14 +36,21 @@ Write about what you're learning and doing with blog posts and/or other media.
   * jQuery
   * AngularJS
   * Accessibility
+  * Design
 * Back-end  
  * Node.js
-* DBA  
+* DBA 
+* Design Patterns
+* Object Oriented Design 
+* Aspect Oriented Design
+* SOLID Principles  
+* Test Driven Development
+  * Testing Methodologies    
+* Domain Driven Development
 * Development Methodologies
   * Agile (XP, Scrum, Kanban)
   * Waterfall
-* UML
-* CI/CD  
+* UML 
 * Source control  
 * Code reviews  
 * Requirements gathering  
@@ -55,15 +62,19 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Equity
   * Listening
   * Empathy
+* Blogging and teaching  
 * Building from scratch  
   * Mobile App
+    * Native
+    * Web App
   * Website
   * Desktop App
-* Blogging and teaching  
 * DevOps  
+* CI/CD 
 * AWS  
 * Docker
 * Kubernetes  
+* Serverless
 * Task runners
 * Security  
   * Kali Linux
@@ -73,14 +84,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Blockchain
 * Cryptography
 * Microcontrollers
-* Design Patterns
-* OOD  
-* SOLID Principles  
-* TDD  
-  * Testing Methodologies    
-* DDD  
-* Large final project  
-  * Combination of everything  
+* Large projects
+  * Combination of many things  
 
 ## Books
 
