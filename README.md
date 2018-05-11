@@ -38,7 +38,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Accessibility
   * Design
 * Back-end  
- * Node.js
+  * Node.js
 * DBA 
 * Design Patterns
 * Object Oriented Design 
@@ -70,15 +70,15 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Website
   * Desktop App
 * DevOps  
-* CI/CD 
-* AWS  
+  * Continuous Integration, Continuous Delivery, and Continuous Deployment 
+* Task runners
+* Amazon Web Services
 * Docker
 * Kubernetes  
 * Serverless
-* Task runners
 * Security  
   * Kali Linux
-* AI  
+* Artificial Intelligence
 * Networking  
 * WebSockets
 * Blockchain
