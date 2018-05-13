@@ -38,32 +38,41 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Accessibility
   * Design
 * Back-end  
-  * Node.js
+* Node.js
 * DBA 
 * Design Patterns
 * Object Oriented Design 
 * Aspect Oriented Design
 * SOLID Principles  
-* Test Driven Development
-  * Testing Methodologies    
 * Domain Driven Development
+* Test Driven Development
+* Testing Methodologies 
+  * Unit Tests
+  * Integration Tests
+  * System Testing
+  * Acceptance Testing
+  * Performance Testing
+  * Security Testing 
+  * Usability Testing
+  * Compatibility Testing
+* Scalability
 * Development Methodologies
   * Agile (XP, Scrum, Kanban)
   * Waterfall
 * UML 
-* Source control  
-* Code reviews  
-* Requirements gathering  
+* Source Control  
+* Code Reviews  
+* Requirements Gathering  
 * Data Structures and Algorithms
 * Theory
-* Soft skills  
+* Soft Skills  
   * Inclusion 
   * Diversity 
   * Equity
   * Listening
   * Empathy
-* Blogging and teaching  
-* Building from scratch  
+* Blogging and Teaching  
+* Building from Scratch  
   * Mobile App
     * Native
     * Web App
@@ -71,7 +80,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Desktop App
 * DevOps  
   * Continuous Integration, Continuous Delivery, and Continuous Deployment 
-* Task runners
+* Task Runners
 * Amazon Web Services
 * Docker
 * Kubernetes  
@@ -84,6 +93,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Blockchain
 * Cryptography
 * Microcontrollers
+* Game Development
+  * Unity
 * Large projects
   * Combination of many things  
 
