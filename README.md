@@ -40,6 +40,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Back-end  
 * Node.js
 * DBA 
+* Functional Programming
 * Design Patterns
 * Object Oriented Design 
 * Aspect Oriented Design
