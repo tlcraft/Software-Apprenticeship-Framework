@@ -99,6 +99,21 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Large projects
   * Combination of many things  
 
+## Apprenticeship Projects
+
+Here is a list of some of the project assignments which 8th Light uses during their apprenticeship program.
+
+* Tic Tac Toe using minimax
+  * Use TDD
+  * Use SOLID principles
+  * Blog about experience
+
+* Java Server using CobSpec
+  * Completed once acceptance tests pass: https://github.com/8thlight/cob_spec
+  
+* Real consulting project 
+  * Build a tool for a non-profit
+
 ## Books
 
 * Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
