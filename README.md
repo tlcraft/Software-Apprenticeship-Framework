@@ -96,6 +96,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Microcontrollers
 * Game Development
   * Unity
+* Operating Systems
+* Linux command line
 * Large projects
   * Combination of many things  
 
