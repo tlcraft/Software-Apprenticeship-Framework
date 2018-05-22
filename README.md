@@ -60,6 +60,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Development Methodologies
   * Agile (XP, Scrum, Kanban)
   * Waterfall
+* Software Architecture
 * UML 
 * Source Control  
 * Code Reviews  
@@ -103,18 +104,18 @@ Write about what you're learning and doing with blog posts and/or other media.
 
 ## Apprenticeship Projects
 
-Here is a list of some of the project assignments which 8th Light uses during their apprenticeship program.
+Here is a list of some of the project assignments which 8th Light uses during their apprenticeship program.  
 
-* Tic Tac Toe using minimax
-  * Use TDD
-  * Use SOLID principles
-  * Blog about experience
+* Tic Tac Toe using minimax  
+  * Use TDD  
+  * Use SOLID principles  
+  * Blog about experience  
 
-* Java Server using CobSpec
-  * Completed once acceptance tests pass: https://github.com/8thlight/cob_spec
+* Java Server using CobSpec  
+  * Completed once acceptance tests pass: https://github.com/8thlight/cob_spec  
   
-* Real consulting project 
-  * Build a tool for a non-profit
+* Real consulting project  
+  * Build a tool for a non-profit  
 
 ## Books
 
