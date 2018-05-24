@@ -35,15 +35,21 @@ Write about what you're learning and doing with blog posts and/or other media.
   * HTML
   * jQuery
   * AngularJS
+  * React
+  * Vue.js
   * Accessibility
   * Design
 * Back-end  
 * Node.js
+* Package Managers
 * DBA 
+  * Indexing
 * Functional Programming
+* Dependency Injection Frameworks
 * Design Patterns
 * Object Oriented Design 
 * Aspect Oriented Design
+* Opinionated Design
 * SOLID Principles  
 * Domain Driven Development
 * Test Driven Development
