@@ -46,6 +46,10 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Indexing
 * Functional Programming
 * Dependency Injection Frameworks
+* Technical analysis for trade-off decisions
+  * Return on investment
+  * System requirements
+  * Project management triangle
 * Design Patterns
 * Object Oriented Design 
 * Aspect Oriented Design
