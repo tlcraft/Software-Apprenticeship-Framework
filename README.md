@@ -2,7 +2,7 @@
 
 I've become very interested in Software Apprenticeship programs and what these teach people. Some programs are developed to help new hires get up to speed at a particular company. Others are designed to take your programming skills to the next level. This sounds similar to a coding boot camp however instead of focusing on a particular language or framework these programs go wider than that and bring in multiple languages, lots of reading, a teaching component, and mentoring. This repo will be a collection of relevant articles concerning Software Apprenticeships and will grow into an "open source apprenticeship program" with time.  
 
-I myself am interested in growing as an engineer and this type of program has shown me a framework to follow in order to do that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I've also more recently started a Software Crafters Meetup group in the community. Along with that I've started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
+I myself am interested in growing as an engineer and this type of program has shown me a framework to follow in order to do that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I've also more recently started a Software Crafters Meetup group in the local community. Along with that I've started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
 
 Ultimately I think you only need to do one thing and that is: practice continuous lifelong learning. Commit to spending time several hours a week or more to learning something new or practicing. In time you'll pick up a lot of things and start connecting the dots among many disparate ideas. Stay true to fundamental things, for example in our context of software, writing tests and building things to be extensible and reusable. If one has a solid fundamental base and is always learning I don't think you can go wrong with that. 
 
@@ -10,7 +10,7 @@ While you won't remember every detail unless you spend a lot of time with a part
 
 ## General format
 
-Review a given topic and gather an overview of important points with some basic fundamentals. Then work through larger tutorials to get practical experience. Then build a small project using what you've learned. Rinse and repeat for each topic. Larger projects will incorporate several topics together. Such as building a personal website which would encompass full-stack web development, for example, HTML, CSS, JavaScript, accessibility, server-side code and design.
+Review a given topic and gather an overview of important points with some basic fundamentals. Then work through larger tutorials to get practical experience. Then build a small project using what you've learned. Rinse and repeat for each topic. Larger projects will incorporate several topics together. Such as building a personal website which would encompass full-stack web development, for example, HTML, CSS, JavaScript, accessibility, server-side code, SQL, and design.
 
 Write about what you're learning and doing with blog posts and/or other media.
 
@@ -76,7 +76,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Code Reviews  
 * Requirements Gathering  
 * Data Structures and Algorithms
-* Theory
+* Computational Theory
 * Soft Skills  
   * Inclusion 
   * Diversity 
@@ -122,7 +122,7 @@ Here is a list of some of the project assignments which 8th Light uses during th
   * Blog about experience  
 
 * Java Server using CobSpec  
-  * Completed once acceptance tests pass: https://github.com/8thlight/cob_spec  
+  * Completed once acceptance tests pass, located here: https://github.com/8thlight/cob_spec  
   
 * Real consulting project  
   * Build a tool for a non-profit  
