@@ -139,6 +139,8 @@ Here is a list of some of the project assignments which 8th Light uses during th
 * The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis
 * Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
 * Emotional Intelligence 2.0 by Travis Bradberry
+* The Clean Coder by Robert C. Martin
+* The Software Craftsman by Sandro Mancuso
 
 ### Programming Language Books
 
