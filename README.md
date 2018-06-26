@@ -53,6 +53,8 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Project management triangle
 * Design Patterns
 * Object Oriented Design 
+  * Inheritance
+  * Polymorphism
 * Aspect Oriented Design
 * Opinionated Design
 * SOLID Principles  
@@ -108,6 +110,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Microcontrollers
 * Game Development
   * Unity
+* Conway's Game of Life
 * Operating Systems
 * Linux command line
 * Large projects
