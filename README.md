@@ -28,6 +28,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * PHP
   * SQL
   * Assembly
+  * Lisp
 * Front-end  
   * Bootstrap
   * Foundation
