@@ -55,6 +55,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Object Oriented Design 
   * Inheritance
   * Polymorphism
+  * Generics
 * Aspect Oriented Design
 * Opinionated Design
 * SOLID Principles  
