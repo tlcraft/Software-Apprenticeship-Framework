@@ -71,6 +71,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Usability Testing
   * Compatibility Testing
 * Scalability
+* Parallel Processing
 * Development Methodologies
   * Agile (XP, Scrum, Kanban)
   * Waterfall
@@ -94,6 +95,8 @@ Write about what you're learning and doing with blog posts and/or other media.
     * Web App
   * Website
   * Desktop App
+* Server Configuration
+* Load Balancing
 * DevOps  
   * Continuous Integration, Continuous Delivery, and Continuous Deployment 
 * Task Runners
