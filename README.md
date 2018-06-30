@@ -43,6 +43,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Back-end  
 * Node.js
 * Package Managers
+* Content Delivery Networks (CDNs)
 * DBA 
   * Indexing
 * Functional Programming
