@@ -83,6 +83,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Requirements Gathering  
 * Data Structures and Algorithms
 * Computational Theory
+* Computer Architecture
+* Bits and Bytes
 * Soft Skills  
   * Inclusion 
   * Diversity 
