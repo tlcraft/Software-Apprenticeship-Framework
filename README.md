@@ -120,6 +120,10 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Conway's Game of Life
 * Operating Systems
 * Linux command line
+* Open Source Software
+  * Licenses
+  * Copyright
+* Business Fundamentals
 * Large projects
   * Combination of many things  
 
@@ -136,7 +140,14 @@ Here is a list of some of the project assignments which 8th Light uses during th
   * Completed once acceptance tests pass, located here: https://github.com/8thlight/cob_spec  
   
 * Real consulting project  
-  * Build a tool for a non-profit  
+  * Build a tool for a non-profit 
+
+Here are some other ideas to get more practice and experience.
+
+* Personal Projects
+
+* Open Source Projects
+  * Code for America
 
 ## Books
 
