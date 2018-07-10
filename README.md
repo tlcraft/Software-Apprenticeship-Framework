@@ -110,6 +110,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Security  
   * Kali Linux
 * Artificial Intelligence
+* Progressive Web Applications
+* Single Page Applications
 * Networking  
 * WebSockets
 * Blockchain
