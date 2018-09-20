@@ -46,6 +46,7 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Content Delivery Networks (CDNs)
 * DBA 
   * Indexing
+  * Query Optimization
 * Functional Programming
 * Dependency Injection Frameworks
 * Technical analysis for trade-off decisions
@@ -59,6 +60,8 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Generics
 * Aspect Oriented Design
 * Opinionated Design
+* Service-oriented modeling
+* Service granularity principle
 * SOLID Principles  
 * Domain Driven Development
 * Test Driven Development
