@@ -63,6 +63,10 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Service-oriented modeling
 * Service granularity principle
 * SOLID Principles  
+* Inversion of Control (Dependency Injection) Containers
+  * Ninject
+  * Unity
+  * Autofac
 * Domain Driven Development
 * Test Driven Development
 * Testing Methodologies 
