@@ -60,6 +60,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Generics
 * Aspect Oriented Design
 * Opinionated Design
+* Chaos Engineering
 * Service-oriented modeling
 * Service granularity principle
 * SOLID Principles  
@@ -84,6 +85,8 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Agile (XP, Scrum, Kanban)
   * Waterfall
 * Software Architecture
+  * Onion
+  * N-Tier
 * UML 
 * Source Control  
 * Code Reviews  
