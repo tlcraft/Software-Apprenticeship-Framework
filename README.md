@@ -22,6 +22,8 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Python
   * Swift
   * Go
+    * A Tour of Go: https://tour.golang.org/welcome/1
+    * Rob Pike - Concurrency Is Not Parallelism: https://www.youtube.com/watch?v=cN_DpYBzKso
   * Java
   * C#
   * Ruby/Rails
@@ -36,7 +38,10 @@ Write about what you're learning and doing with blog posts and/or other media.
   * HTML
   * jQuery
   * AngularJS
+    * Angular.io: https://angular.io/
   * React
+    * Tutorial: Intro to React: https://reactjs.org/tutorial/tutorial.html
+    * Hello World: https://reactjs.org/docs/hello-world.html
   * Vue.js
   * Accessibility
   * Design
