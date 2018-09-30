@@ -16,6 +16,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 
 ## General Topic Ideas
 
+Below is a list of topics and links to relevant content from around the internet.
+
 * Multiple languages  
   * C/C++
   * JavaScript
@@ -53,7 +55,6 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Indexing
   * Query Optimization
 * Functional Programming
-* Dependency Injection Frameworks
 * Technical analysis for trade-off decisions
   * Return on investment
   * System requirements
@@ -69,6 +70,8 @@ Write about what you're learning and doing with blog posts and/or other media.
 * Service-oriented modeling
 * Service granularity principle
 * SOLID Principles  
+* Dependency Injection
+  * Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016): https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s
 * Inversion of Control (Dependency Injection) Containers
   * Ninject
   * Unity
@@ -136,6 +139,7 @@ Write about what you're learning and doing with blog posts and/or other media.
   * Unity
 * Conway's Game of Life
 * Operating Systems
+ * Operating System Basics: https://www.youtube.com/watch?v=9GDX-IyZ_C8
 * Linux command line
 * Open Source Software
   * Licenses
