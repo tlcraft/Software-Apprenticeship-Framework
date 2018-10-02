@@ -46,7 +46,13 @@ Below is a list of topics and links to relevant content from around the internet
     * Hello World: https://reactjs.org/docs/hello-world.html
   * Vue.js
   * Accessibility
+    * Section 508 Compliance
+    * Analyzers
+    * Screen Readers
   * Design
+    * Flat
+    * Material
+    * Metro
 * Back-end  
 * Node.js
 * Package Managers
