@@ -10,9 +10,9 @@ If you do work through the topics listed below, while you won't remember every d
 
 ## General format
 
-Review a given topic and gather an overview of important points with some basic fundamentals. Then work through larger tutorials to get practical experience. Then build a small project using what you've learned. Rinse and repeat for each topic. Larger projects will incorporate several topics together. Such as building a personal website which would encompass full-stack web development, for example, HTML, CSS, JavaScript, accessibility, server-side code, SQL, and design.
+Review a given topic and gather an overview of important points with some basic fundamentals. Then work through larger tutorials to get practical experience. Then build a project using what you've learned, big or small. Just do something you're interested in. Then rinse and repeat for another topic. Larger projects will incorporate several topics together. Such as building a personal website which would encompass full-stack web development, for example, HTML, CSS, JavaScript, accessibility, server-side code, SQL, and design.
 
-Write about what you're learning and doing with blog posts and/or other media.
+Also, it's a good idea to write about what you're learning and doing with blog posts and/or other media. Others will be able to learn from you and you will later be able to look back on all that you've learned and see progress as you gain a deeper understanding.
 
 ## General Topic Ideas
 
