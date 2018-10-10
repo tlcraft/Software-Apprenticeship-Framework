@@ -40,8 +40,8 @@ Below is a list of topics and links to relevant content from around the internet
   * HTML
   * jQuery
   * Angular
-    * Angular.io: https://angular.io/
-    * Overview of Angular 6: https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s
+    * [Angular.io](https://angular.io/)
+    * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
   * React
     * Tutorial: Intro to React: https://reactjs.org/tutorial/tutorial.html
     * Hello World: https://reactjs.org/docs/hello-world.html
@@ -71,7 +71,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Inheritance
   * Polymorphism
   * Generics
-    * Overview in C#: https://www.youtube.com/watch?v=l6s7AvZx5j8
+    * [Overview in C# with Tim Corey](https://www.youtube.com/watch?v=l6s7AvZx5j8)
 * Aspect Oriented Design
 * Opinionated Design
 * Chaos Engineering
@@ -79,7 +79,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Service granularity principle
 * SOLID Principles  
 * Dependency Injection
-  * Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016): https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s
+  * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
 * Inversion of Control (Dependency Injection) Containers
   * Ninject
   * Unity
@@ -147,7 +147,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Unity
 * Conway's Game of Life
 * Operating Systems
-  * Operating System Basics: https://www.youtube.com/watch?v=9GDX-IyZ_C8
+  * [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * Linux command line
 * Open Source Software
   * Licenses
