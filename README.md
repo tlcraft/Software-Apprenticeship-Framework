@@ -39,8 +39,9 @@ Below is a list of topics and links to relevant content from around the internet
   * CSS
   * HTML
   * jQuery
-  * AngularJS
+  * Angular
     * Angular.io: https://angular.io/
+    * Overview of Angular 6: https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s
   * React
     * Tutorial: Intro to React: https://reactjs.org/tutorial/tutorial.html
     * Hello World: https://reactjs.org/docs/hello-world.html
@@ -70,6 +71,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Inheritance
   * Polymorphism
   * Generics
+    * Overview in C#: https://www.youtube.com/watch?v=l6s7AvZx5j8
 * Aspect Oriented Design
 * Opinionated Design
 * Chaos Engineering
