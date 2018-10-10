@@ -24,8 +24,8 @@ Below is a list of topics and links to relevant content from around the internet
   * Python
   * Swift
   * Go
-    * A Tour of Go: https://tour.golang.org/welcome/1
-    * Rob Pike - Concurrency Is Not Parallelism: https://www.youtube.com/watch?v=cN_DpYBzKso
+    * [A Tour of Go](https://tour.golang.org/welcome/1)
+    * [Rob Pike - Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
   * Java
   * C#
   * Ruby/Rails
@@ -43,8 +43,8 @@ Below is a list of topics and links to relevant content from around the internet
     * [Angular.io](https://angular.io/)
     * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
   * React
-    * Tutorial: Intro to React: https://reactjs.org/tutorial/tutorial.html
-    * Hello World: https://reactjs.org/docs/hello-world.html
+    * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+    * [Hello World](https://reactjs.org/docs/hello-world.html)
   * Vue.js
   * Accessibility
     * Section 508 Compliance
