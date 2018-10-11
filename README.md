@@ -34,13 +34,12 @@ Below is a list of topics and links to relevant content from around the internet
   * Assembly
   * Lisp
 * Front-end  
-  * Bootstrap
-  * Foundation
+  * [Bootstrap](https://getbootstrap.com/)
+  * [Foundation](https://foundation.zurb.com/)
   * CSS
   * HTML
   * jQuery
-  * Angular
-    * [Angular.io](https://angular.io/)
+  * [Angular](https://angular.io/)
     * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
@@ -55,7 +54,7 @@ Below is a list of topics and links to relevant content from around the internet
     * Material
     * Metro
 * Back-end  
-* Node.js
+* [Node.js](https://nodejs.org/en/)
 * Package Managers
 * Content Delivery Networks (CDNs)
 * DBA 
@@ -129,7 +128,9 @@ Below is a list of topics and links to relevant content from around the internet
 * DevOps  
   * Continuous Integration, Continuous Delivery, and Continuous Deployment 
 * Task Runners
-* Amazon Web Services
+  * [Gulp](https://gulpjs.com/)
+* [Amazon Web Services](https://aws.amazon.com/)
+* [Azure](https://azure.microsoft.com/en-us/)
 * Docker
 * Kubernetes  
 * Serverless
@@ -145,7 +146,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Microcontrollers
 * Game Development
   * Unity
-* Conway's Game of Life
+* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * Operating Systems
   * [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * Linux command line
