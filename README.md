@@ -80,9 +80,9 @@ Below is a list of topics and links to relevant content from around the internet
 * Dependency Injection
   * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
 * Inversion of Control (Dependency Injection) Containers
-  * Ninject
-  * Unity
-  * Autofac
+  * [Ninject](http://www.ninject.org/)
+  * [Unity](https://github.com/unitycontainer/unity)
+  * [Autofac](https://autofac.org/)
 * Domain Driven Development
 * Test Driven Development
 * Testing Methodologies 
@@ -145,7 +145,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Cryptography
 * Microcontrollers
 * Game Development
-  * Unity
+  * [Unity](https://unity3d.com/)
+  * [Phaser](https://phaser.io/)
 * [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * Operating Systems
   * [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
