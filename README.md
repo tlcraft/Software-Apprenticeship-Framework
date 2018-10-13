@@ -32,7 +32,6 @@ Below is a list of topics and links to relevant content from around the internet
   * PHP
   * SQL
   * Assembly
-  * Lisp
 * Front-end  
   * [Bootstrap](https://getbootstrap.com/)
   * [Foundation](https://foundation.zurb.com/)
@@ -60,7 +59,12 @@ Below is a list of topics and links to relevant content from around the internet
 * DBA 
   * Indexing
   * Query Optimization
-* Functional Programming
+* [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+  * [Haskell](https://www.haskell.org/)
+  * [Clojure](https://clojure.org/)
+  * [F#](https://fsharp.org/)
+  * [Lisp](https://common-lisp.net/)
+  * [Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 * Technical analysis for trade-off decisions
   * Return on investment
   * System requirements
