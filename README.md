@@ -162,6 +162,10 @@ Below is a list of topics and links to relevant content from around the internet
 * Large projects
   * Combination of many things  
 
+# Events
+
+* [Global Day of Coderetreat](https://www.coderetreat.org/)
+
 ## Apprenticeship Projects
 
 Here is a list of some of the project assignments which 8th Light uses during their apprenticeship program.  
