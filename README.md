@@ -79,8 +79,9 @@ Below is a list of topics and links to relevant content from around the internet
 * Opinionated Design
 * Chaos Engineering
 * Service-oriented modeling
-* Service granularity principle
-* SOLID Principles  
+* [Service granularity principle](https://en.wikipedia.org/wiki/Service_granularity_principle)
+* [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)  
+* [Package Principles](https://en.wikipedia.org/wiki/Package_principles)
 * Dependency Injection
   * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
 * Inversion of Control (Dependency Injection) Containers
@@ -162,7 +163,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Large projects
   * Combination of many things  
 
-# Events
+## Events
 
 * [Global Day of Coderetreat](https://www.coderetreat.org/)
 
