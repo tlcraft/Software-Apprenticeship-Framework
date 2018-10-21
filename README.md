@@ -138,11 +138,12 @@ Below is a list of topics and links to relevant content from around the internet
   * [Gulp](https://gulpjs.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/en-us/)
-* Docker
-* Kubernetes  
+* Containers
+  * [Docker](https://www.docker.com/)
+  * [Kubernetes](https://kubernetes.io/)
 * Serverless
 * Security  
-  * Kali Linux
+  * [Kali Linux](https://www.kali.org/)
 * Artificial Intelligence
 * Progressive Web Applications
 * Single Page Applications
