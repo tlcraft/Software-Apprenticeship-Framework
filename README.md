@@ -55,10 +55,12 @@ Below is a list of topics and links to relevant content from around the internet
 * Back-end  
 * [Node.js](https://nodejs.org/en/)
 * Package Managers
+  * [npm](https://www.npmjs.com/)
 * Content Delivery Networks (CDNs)
 * DBA 
   * Indexing
   * Query Optimization
+    * [SQL Server](https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc137757(v=msdn.10))
 * [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
   * [Haskell](https://www.haskell.org/)
   * [Clojure](https://clojure.org/)
