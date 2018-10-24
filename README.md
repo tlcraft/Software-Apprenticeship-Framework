@@ -153,7 +153,9 @@ Below is a list of topics and links to relevant content from around the internet
 * WebSockets
 * Blockchain
 * Cryptography
-* Microcontrollers
+* [Microcontrollers](https://en.wikipedia.org/wiki/Microcontroller)
+  * [Raspberry Pi](https://www.raspberrypi.org/)
+  * [Arduino](https://www.arduino.cc/)
 * Game Development
   * [Unity](https://unity3d.com/)
   * [Phaser](https://phaser.io/)
