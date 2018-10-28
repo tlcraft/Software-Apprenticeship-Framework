@@ -21,17 +21,19 @@ Below is a list of topics and links to relevant content from around the internet
 * Multiple languages  
   * C/C++
   * JavaScript
+    * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
   * Python
   * Swift
   * Go
     * [A Tour of Go](https://tour.golang.org/welcome/1)
     * [Rob Pike - Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
   * Java
-  * C#
+  * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
   * Ruby/Rails
   * PHP
   * SQL
-  * Assembly
+  * [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 * Front-end  
   * [Bootstrap](https://getbootstrap.com/)
   * [Foundation](https://foundation.zurb.com/)
@@ -152,7 +154,9 @@ Below is a list of topics and links to relevant content from around the internet
 * WebSockets
 * Blockchain
 * Cryptography
-* Microcontrollers
+* [Microcontrollers](https://en.wikipedia.org/wiki/Microcontroller)
+  * [Raspberry Pi](https://www.raspberrypi.org/)
+  * [Arduino](https://www.arduino.cc/)
 * Game Development
   * [Unity](https://unity3d.com/)
   * [Phaser](https://phaser.io/)
