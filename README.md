@@ -42,6 +42,7 @@ Below is a list of topics and links to relevant content from around the internet
   * jQuery
   * [Angular](https://angular.io/)
     * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
+    * [Tour of Heroes](https://angular.io/tutorial)
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
