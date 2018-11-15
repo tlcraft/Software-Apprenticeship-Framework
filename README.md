@@ -72,6 +72,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [F#](https://fsharp.org/)
   * [Lisp](https://common-lisp.net/)
   * [Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
+* [Anonymous functions](https://en.wikipedia.org/wiki/Anonymous_function)
 * Technical analysis for trade-off decisions
   * Return on investment
   * System requirements
