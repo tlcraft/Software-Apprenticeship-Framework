@@ -96,6 +96,11 @@ Below is a list of topics and links to relevant content from around the internet
   * [Ninject](http://www.ninject.org/)
   * [Unity](https://github.com/unitycontainer/unity)
   * [Autofac](https://autofac.org/)
+* Object Mapping
+  * [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+  * Frameworks
+    * [Entity Framework](https://en.wikipedia.org/wiki/Entity_Framework)
+    * [Hibernate](http://hibernate.org/)
 * Domain Driven Development
 * Test Driven Development
 * Testing Methodologies 
