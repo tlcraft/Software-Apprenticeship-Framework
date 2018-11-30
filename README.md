@@ -78,6 +78,9 @@ Below is a list of topics and links to relevant content from around the internet
   * Return on investment
   * System requirements
   * Project management triangle
+* Simple Design
+  * [Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
+  * [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 * Design Patterns
 * Object Oriented Design 
   * Inheritance
