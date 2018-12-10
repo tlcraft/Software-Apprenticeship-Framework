@@ -35,6 +35,7 @@ Below is a list of topics and links to relevant content from around the internet
   * SQL
   * [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 * Front-end  
+  * [World Wide Web Consortium - W3C](https://www.w3.org/)
   * [Bootstrap](https://getbootstrap.com/)
   * [Foundation](https://foundation.zurb.com/)
   * CSS
@@ -47,7 +48,7 @@ Below is a list of topics and links to relevant content from around the internet
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
-  * Vue.js
+  * [Vue.js](https://vuejs.org/)
   * [D3.js](https://d3js.org/)
   * [Prettier](https://prettier.io/)
   * Accessibility
