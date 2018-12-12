@@ -49,6 +49,7 @@ Below is a list of topics and links to relevant content from around the internet
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
   * [Vue.js](https://vuejs.org/)
+  * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
   * [D3.js](https://d3js.org/)
   * [Prettier](https://prettier.io/)
   * Accessibility
