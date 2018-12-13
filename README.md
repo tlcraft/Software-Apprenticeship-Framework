@@ -16,7 +16,7 @@ Also, it's a good idea to write about what you're learning and doing with blog p
 
 ## General Topic Ideas
 
-Below is a list of topics and links to relevant content from around the internet.
+Below is a list of topics and links to relevant content from around the internet. Some of this is focused on .NET and Microsoft related technologies but similar frameworks should be available in your chosen language and stack.
 
 * Multiple languages  
   * C/C++
@@ -84,6 +84,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
   * [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 * Design Patterns
+  * [GOF Book](https://en.wikipedia.org/wiki/Design_Patterns)
 * Object Oriented Design 
   * Inheritance
   * Polymorphism
@@ -109,6 +110,9 @@ Below is a list of topics and links to relevant content from around the internet
     * [Hibernate](http://hibernate.org/)
 * Domain Driven Development
 * Test Driven Development
+  * [Three Laws of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* Mocking Frameworks
+  * [MOQ](https://github.com/moq/moq)
 * Testing Methodologies 
   * Unit Tests
   * Integration Tests
@@ -178,6 +182,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Operating Systems
   * [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * Linux command line
+  * [cmder](http://cmder.net/)
 * Open Source Software
   * Licenses
   * Copyright
