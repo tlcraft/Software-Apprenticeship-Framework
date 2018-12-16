@@ -128,8 +128,10 @@ Below is a list of topics and links to relevant content from around the internet
   * Agile (XP, Scrum, Kanban)
   * Waterfall
 * Software Architecture
+  * [Making Architecture Matter by Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
   * Onion
   * N-Tier
+  * Hexagonal
 * UML 
 * Source Control  
 * Code Reviews  
