@@ -137,6 +137,8 @@ Below is a list of topics and links to relevant content from around the internet
   * Hexagonal
 * UML 
 * Source Control  
+* [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
+  * [Semantic Versioning](https://semver.org/)
 * Code Reviews  
 * Requirements Gathering  
 * Data Structures and Algorithms
