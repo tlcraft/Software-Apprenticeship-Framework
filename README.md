@@ -1,8 +1,8 @@
 # Software Apprenticeship Framework
 
-I've become very interested in Software Apprenticeship programs and what these teach people. Some programs are developed to help new hires get up to speed at a particular company. Others are designed to take your programming skills to the next level. This may sound similar to a coding boot camp however instead of focusing on a particular language or framework as some programs do these apprenticeship programs go wider than that and bring in multiple languages, lots of reading, a teaching component, and mentoring. This repo will be a collection of relevant articles concerning Software Apprenticeships and will grow into an "open source apprenticeship program" with time.  
+I've become very interested in Software Apprenticeship programs and what these teach people. Some programs are developed to help new hires get up to speed at a particular company. Others are designed to take your programming skills to the next level. This may sound similar to a coding boot camp however instead of focusing on a particular language or framework as some programs do these apprenticeship programs go wider than that and bring in multiple languages, lots of reading, a teaching component, and mentoring. This repo will be a collection of relevant articles concerning Software Apprenticeships and will grow into an "open source apprenticeship program" with time.
 
-I'm interested in growing as an engineer and this type of program has shown me a framework to follow in order to do just that. Since learning of "Software Craftsmanship" in the fall of 2017 I have been organizing craftsmanship lunches twice a week at work to bring people together to learn and grow. I also started a "Software Crafters" Meetup group in the local community in the spring of 2018. Along with that I started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
+I'm interested in growing as an engineer and this type of program has shown me a framework to follow in order to do just that. While I'm doing this for myself so that I can continue to learn anyone who reaches this page can also follow along and hopefully find new topics to dive into. Since learning of "Software Craftsmanship" in the fall of 2017 I started organizing craftsmanship lunches twice a week at work to bring people together for continuous learning. I also started a "Software Crafters" Meetup group in my local community in the spring of 2018. Along with that I started the first freeCodeCamp group in Kalispell, MT as well. These all help everyone involved grow as software professionals, from those whom I work with, to the larger community, to myself individually. Thus begins my journey into the software crafter philosophy.
 
 Ultimately I think you only need to do one thing and that is: practice continuous lifelong learning. Commit to spending time several hours a week or more to learning something new or practicing. In time you'll pick up a lot of things and start connecting the dots among many disparate ideas. Stay true to fundamental things, for example in our context of software, writing tests and building things to be extensible and reusable. If one has a solid fundamental base and is always learning I don't think you can go wrong with that. 
 
@@ -23,6 +23,8 @@ Below is a list of topics and links to relevant content from around the internet
   * JavaScript
     * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
+    * [TypeScript](https://www.typescriptlang.org/)
+    * [webpack](https://webpack.js.org/)
   * Python
   * Swift
   * Go
@@ -45,6 +47,7 @@ Below is a list of topics and links to relevant content from around the internet
     * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
     * [Tour of Heroes](https://angular.io/tutorial)
     * [Full Angular 6 Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+    * [ngrx](https://github.com/ngrx/platform)
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
