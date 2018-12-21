@@ -23,6 +23,7 @@ Below is a list of topics and links to relevant content from around the internet
   * JavaScript
     * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
+      * [Standard ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
     * [TypeScript](https://www.typescriptlang.org/)
     * [webpack](https://webpack.js.org/)
   * Python
@@ -40,9 +41,9 @@ Below is a list of topics and links to relevant content from around the internet
   * [World Wide Web Consortium - W3C](https://www.w3.org/)
   * [Bootstrap](https://getbootstrap.com/)
   * [Foundation](https://foundation.zurb.com/)
-  * CSS
-  * HTML
-  * jQuery
+  * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  * [HTML 5.2](https://www.w3.org/TR/html52/)
+  * [jQuery](https://jquery.com/)
   * [Angular](https://angular.io/)
     * [Overview of Angular 6 with Gary from Design Course](https://www.youtube.com/watch?v=z4JUm0Bq9AM&t=2117s)
     * [Tour of Heroes](https://angular.io/tutorial)
