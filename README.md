@@ -19,23 +19,28 @@ Also, it's a good idea to write about what you're learning and doing with blog p
 Below is a list of topics and links to relevant content from around the internet. Some of this is focused on .NET and Microsoft related technologies but similar frameworks should be available in your chosen language and stack.
 
 * Multiple languages  
-  * C/C++
+  * [C](https://www.learn-c.org/)
+  * [C++](http://www.cplusplus.com/)
   * JavaScript
     * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     * [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)
       * [Standard ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
     * [TypeScript](https://www.typescriptlang.org/)
     * [webpack](https://webpack.js.org/)
-  * Python
-  * Swift
+  * [Python](https://www.python.org/)
+  * [Swift](https://swift.org/)
   * Go
     * [A Tour of Go](https://tour.golang.org/welcome/1)
     * [Rob Pike - Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
-  * Java
+  * [Java](https://www.java.com/en/)
   * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-  * Ruby/Rails
-  * PHP
-  * SQL
+  * [Ruby](https://www.ruby-lang.org/en/)
+  * [Ruby on Rails](https://rubyonrails.org/)
+  * [PHP](http://www.php.net/)
+  * [SQL](https://en.wikipedia.org/wiki/SQL)
+    * [MSSQL](https://www.microsoft.com/en-us/sql-server/sql-server-2016)
+    * [MySQL](https://www.mysql.com/)
+    * [Oracle](https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm)
   * [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 * Front-end  
   * [World Wide Web Consortium - W3C](https://www.w3.org/)
