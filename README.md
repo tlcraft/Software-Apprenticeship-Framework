@@ -62,8 +62,8 @@ Below is a list of topics and links to relevant content from around the internet
   * [D3.js](https://d3js.org/)
   * [Prettier](https://prettier.io/)
   * Accessibility
-    * Section 508 Compliance
-    * Analyzers
+    * [Section 508 Compliance](https://www.section508.gov/)
+    * [Analyzers](https://www.w3.org/WAI/ER/tools/)
     * Screen Readers
   * Design
     * Flat
