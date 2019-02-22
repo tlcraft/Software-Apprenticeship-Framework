@@ -66,9 +66,10 @@ Below is a list of topics and links to relevant content from around the internet
     * [Analyzers](https://www.w3.org/WAI/ER/tools/)
     * Screen Readers
   * Design
-    * Flat
-    * Material
-    * Metro
+    * [Flat](https://en.wikipedia.org/wiki/Flat_design)
+    * [Material](https://material.io/)
+    * [Metro](https://en.wikipedia.org/wiki/Metro_(design_language)
+    * [Hack Design](https://hackdesign.org/)
 * [Google Developers - Web](https://developers.google.com/web/)
 * Back-end  
 * [Node.js](https://nodejs.org/en/)
