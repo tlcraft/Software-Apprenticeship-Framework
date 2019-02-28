@@ -138,8 +138,12 @@ Below is a list of topics and links to relevant content from around the internet
 * Scalability
 * Parallel Processing
 * Development Methodologies
-  * Agile (XP, Scrum, Kanban)
-  * Waterfall
+  * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
+  * [Agile Manifesto](https://agilemanifesto.org/)
+  * [Extreme Programming](https://en.wikipedia.org/wiki/Extreme_programming)
+  * [Scrum](https://www.scrum.org/)
+  * [Kanban](https://www.youtube.com/watch?v=CD0y-aU1sXo)
+  * [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 * Software Architecture
   * [Making Architecture Matter by Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
   * Onion
