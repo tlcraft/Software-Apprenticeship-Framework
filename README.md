@@ -165,6 +165,8 @@ Below is a list of topics and links to relevant content from around the internet
   * Equity
   * Listening
   * Empathy
+* Imposter Syndrome
+* Dealing with Failure
 * Blogging and Teaching  
 * Building from Scratch  
   * Mobile App
@@ -210,8 +212,6 @@ Below is a list of topics and links to relevant content from around the internet
 * Business Fundamentals
 * Large projects
   * Combination of many things  
-* Imposter Syndrome
-* Dealing with Failure
 
 ## Events
 
