@@ -159,14 +159,14 @@ Below is a list of topics and links to relevant content from around the internet
 * Computational Theory
 * Computer Architecture
 * Bits and Bytes
-* Soft Skills  
+* [Soft Skills](https://en.wikipedia.org/wiki/Soft_skills)  
   * Inclusion 
   * Diversity 
   * Equity
   * Listening
   * Empathy
-* Imposter Syndrome
-* Dealing with Failure
+* [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
+* [Dealing with Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
 * Blogging and Teaching  
 * Building from Scratch  
   * Mobile App
