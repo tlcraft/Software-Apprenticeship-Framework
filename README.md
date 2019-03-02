@@ -210,6 +210,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Business Fundamentals
 * Large projects
   * Combination of many things  
+* Imposter Syndrome
+* Dealing with Failure
 
 ## Events
 
