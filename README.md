@@ -75,6 +75,7 @@ Below is a list of topics and links to relevant content from around the internet
 * [Node.js](https://nodejs.org/en/)
 * Package Managers
   * [npm](https://www.npmjs.com/)
+  * [NuGet](https://www.nuget.org/)
 * Content Delivery Networks (CDNs)
 * DBA 
   * Indexing
