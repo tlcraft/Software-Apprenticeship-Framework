@@ -97,12 +97,12 @@ Below is a list of topics and links to relevant content from around the internet
   * [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 * Design Patterns
   * [GOF Book](https://en.wikipedia.org/wiki/Design_Patterns)
-* Object Oriented Design 
-  * Inheritance
-  * Polymorphism
-  * Generics
+* [Object-oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design) 
+  * [Inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+  * [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+  * [Generics](https://en.wikipedia.org/wiki/Generic_programming)
     * [Overview in C# with Tim Corey](https://www.youtube.com/watch?v=l6s7AvZx5j8)
-* Aspect Oriented Design
+* [Aspect-oriented Design](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * Opinionated Design
 * Chaos Engineering
 * Service-oriented modeling
