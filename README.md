@@ -104,7 +104,9 @@ Below is a list of topics and links to relevant content from around the internet
     * [Overview in C# with Tim Corey](https://www.youtube.com/watch?v=l6s7AvZx5j8)
 * [Aspect-oriented Design](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * Opinionated Design
-* Chaos Engineering
+  * [Stack Overflow Answer](https://stackoverflow.com/a/802064/80948310)
+  * [Software Engineering Answer](https://softwareengineering.stackexchange.com/a/12188/274270)
+* [Chaos Engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
 * Service-oriented modeling
 * [Service granularity principle](https://en.wikipedia.org/wiki/Service_granularity_principle)
 * [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)  
