@@ -109,9 +109,9 @@ Below is a list of topics and links to relevant content from around the internet
 * [Chaos Engineering](https://en.wikipedia.org/wiki/Chaos_engineering)
 * Service-oriented modeling
 * [Service granularity principle](https://en.wikipedia.org/wiki/Service_granularity_principle)
-* [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)  
+* [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 * [Package Principles](https://en.wikipedia.org/wiki/Package_principles)
-* Dependency Injection
+* [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
   * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
 * Inversion of Control (Dependency Injection) Containers
   * [Ninject](http://www.ninject.org/)
