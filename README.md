@@ -78,9 +78,9 @@ Below is a list of topics and links to relevant content from around the internet
   * [NuGet](https://www.nuget.org/)
 * Content Delivery Networks (CDNs)
 * DBA 
-  * Indexing
+  * [Indexing](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
   * Performance Profiling
-  * Query Optimization
+  * [Query Optimization](https://www.sqlshack.com/query-optimization-techniques-in-sql-server-the-basics/)
     * [SQL Server](https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc137757(v=msdn.10))
 * [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
   * [Haskell](https://www.haskell.org/)
