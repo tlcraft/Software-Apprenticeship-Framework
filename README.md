@@ -98,6 +98,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 * Design Patterns
   * [GOF Book](https://en.wikipedia.org/wiki/Design_Patterns)
+  * [Source Making](https://sourcemaking.com/design_patterns)
 * [Object-oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design) 
   * [Inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
   * [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
