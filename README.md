@@ -154,7 +154,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 * Software Architecture
   * [Making Architecture Matter by Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
-  * Onion
+  * [Onion](https://www.infoq.com/news/2014/10/ddd-onion-architecture)
   * N-Tier
   * Hexagonal
 * UML 
