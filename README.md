@@ -105,6 +105,8 @@ Below is a list of topics and links to relevant content from around the internet
   * [Generics](https://en.wikipedia.org/wiki/Generic_programming)
     * [Overview in C# with Tim Corey](https://www.youtube.com/watch?v=l6s7AvZx5j8)
 * [Aspect-oriented Design](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+* [Component-oriented Programming](https://en.wikipedia.org/wiki/Component-based_software_engineering)
+* [Structured Programming](https://en.wikipedia.org/wiki/Structured_programming)
 * Opinionated Design
   * [Stack Overflow Answer](https://stackoverflow.com/a/802064/80948310)
   * [Software Engineering Answer](https://softwareengineering.stackexchange.com/a/12188/274270)
