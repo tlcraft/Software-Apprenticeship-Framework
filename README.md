@@ -158,7 +158,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Making Architecture Matter by Martin Fowler](https://www.youtube.com/watch?v=DngAZyWMGR0)
   * [Onion](https://www.infoq.com/news/2014/10/ddd-onion-architecture)
   * [N-Tier](https://en.wikipedia.org/wiki/Multitier_architecture)
-  * Hexagonal
+  * [Hexagonal](https://blog.ndepend.com/hexagonal-architecture/)
 * UML 
 * Source Control  
 * [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
