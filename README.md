@@ -161,7 +161,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Hexagonal](https://blog.ndepend.com/hexagonal-architecture/)
 * UML 
 * [Source Control](https://en.wikipedia.org/wiki/Version_control)
- * [git](https://git-scm.com/)
+  * [git](https://git-scm.com/)
 * [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
   * [Semantic Versioning](https://semver.org/)
 * Code Reviews  
