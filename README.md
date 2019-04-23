@@ -187,6 +187,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Desktop App
 * Server Configuration
 * Load Balancing
+  * [F5](https://www.f5.com/services/resources/glossary/load-balancer)
 * DevOps  
   * Continuous Integration, Continuous Delivery, and Continuous Deployment 
 * Task Runners
