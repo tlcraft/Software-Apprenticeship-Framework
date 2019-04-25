@@ -188,7 +188,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Server Configuration
 * Load Balancing
   * [F5](https://www.f5.com/services/resources/glossary/load-balancer)
-* DevOps  
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)  
   * Continuous Integration, Continuous Delivery, and Continuous Deployment 
 * Task Runners
   * [Gulp](https://gulpjs.com/)
