@@ -206,7 +206,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Networking  
 * WebSockets
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
-* Cryptography
+* [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 * [Microcontrollers](https://en.wikipedia.org/wiki/Microcontroller)
   * [Raspberry Pi](https://www.raspberrypi.org/)
   * [Arduino](https://www.arduino.cc/)
