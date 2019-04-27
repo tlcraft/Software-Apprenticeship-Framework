@@ -205,7 +205,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Single Page Applications
 * Networking  
 * WebSockets
-* Blockchain
+* [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * Cryptography
 * [Microcontrollers](https://en.wikipedia.org/wiki/Microcontroller)
   * [Raspberry Pi](https://www.raspberrypi.org/)
