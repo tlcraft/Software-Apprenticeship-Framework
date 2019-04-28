@@ -203,8 +203,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Artificial Intelligence
 * Progressive Web Applications
 * Single Page Applications
-* Networking  
-* WebSockets
+* [Networking](https://en.wikipedia.org/wiki/Network_socket)  
+* [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
 * [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 * [Microcontrollers](https://en.wikipedia.org/wiki/Microcontroller)
