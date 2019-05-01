@@ -201,8 +201,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Security  
   * [Kali Linux](https://www.kali.org/)
 * Artificial Intelligence
-* Progressive Web Applications
-* Single Page Applications
+* [Progressive Web Applications](https://en.wikipedia.org/wiki/Progressive_web_applications)
+* [Single Page Applications](https://en.wikipedia.org/wiki/Single-page_application)
 * [Networking](https://en.wikipedia.org/wiki/Network_socket)  
 * [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 * [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
