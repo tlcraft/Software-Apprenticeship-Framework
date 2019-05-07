@@ -220,7 +220,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Linux command line
   * [cmder](http://cmder.net/)
 * Open Source Software
-  * Licenses
+  * [Licenses](https://en.wikipedia.org/wiki/Open-source_license)
   * Copyright
 * Business Fundamentals
 * Large projects
