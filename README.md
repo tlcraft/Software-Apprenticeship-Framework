@@ -221,7 +221,8 @@ Below is a list of topics and links to relevant content from around the internet
   * [cmder](http://cmder.net/)
 * Open Source Software
   * [Licenses](https://en.wikipedia.org/wiki/Open-source_license)
-  * Copyright
+  * [How to choose a license](https://choosealicense.com/)
+  * [Copyright](https://en.wikipedia.org/wiki/Software_copyright)
 * Business Fundamentals
 * Large projects
   * Combination of many things  
