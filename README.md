@@ -146,7 +146,10 @@ Below is a list of topics and links to relevant content from around the internet
   * [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
   * [Compatibility Testing](https://en.wikipedia.org/wiki/Compatibility_testing)
 * Scalability
-* Parallel Processing
+* Concurrency
+  * [Producer-Consumer](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem)
+  * [Readers-Writers](https://en.wikipedia.org/wiki/Readers%E2%80%93writers_problem)
+  * [Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
 * Development Methodologies
   * [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
   * [Agile Manifesto](https://agilemanifesto.org/)
