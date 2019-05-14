@@ -64,7 +64,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Accessibility
     * [Section 508 Compliance](https://www.section508.gov/)
     * [Analyzers](https://www.w3.org/WAI/ER/tools/)
-    * Screen Readers
+    * [Screen Readers](https://en.wikipedia.org/wiki/Screen_reader)
   * Design
     * [Flat](https://en.wikipedia.org/wiki/Flat_design)
     * [Material](https://material.io/)
