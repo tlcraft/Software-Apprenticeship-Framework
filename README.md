@@ -167,7 +167,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [git](https://git-scm.com/)
 * [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
   * [Semantic Versioning](https://semver.org/)
-* Code Reviews  
+* [Code Reviews](https://medium.com/@andreigridnev/examples-of-code-review-checklists-and-guides-2dfed082a86d)  
 * Requirements Gathering  
 * Data Structures and Algorithms
 * Computational Theory
