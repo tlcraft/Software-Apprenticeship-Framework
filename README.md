@@ -76,7 +76,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Package Managers
   * [npm](https://www.npmjs.com/)
   * [NuGet](https://www.nuget.org/)
-* Content Delivery Networks (CDNs)
+* [Content Delivery Networks (CDNs)](https://en.wikipedia.org/wiki/Content_delivery_network)
 * DBA 
   * [Indexing](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
   * Performance Profiling
