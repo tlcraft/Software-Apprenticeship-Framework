@@ -90,6 +90,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Simple Made Easy by Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 * [Anonymous functions](https://en.wikipedia.org/wiki/Anonymous_function)
 * Technical analysis for trade-off decisions
+  * [The Art of Tradeoffs](https://pragprog.com/articles/the-art-of-tradeoffs)
   * Return on investment
   * System requirements
   * Project management triangle
