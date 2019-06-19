@@ -93,7 +93,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [The Art of Tradeoffs](https://pragprog.com/articles/the-art-of-tradeoffs)
   * Return on investment
   * System requirements
-  * Project management triangle
+  * [Project management triangle](http://www.providentmediagroup.com/blog/pick-any-2/)
 * Simple Design
   * [Four Rules of Simple Design](https://martinfowler.com/bliki/BeckDesignRules.html)
   * [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
