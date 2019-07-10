@@ -91,7 +91,7 @@ Below is a list of topics and links to relevant content from around the internet
 * [Anonymous functions](https://en.wikipedia.org/wiki/Anonymous_function)
 * Technical analysis for trade-off decisions
   * [The Art of Tradeoffs](https://pragprog.com/articles/the-art-of-tradeoffs)
-  * Return on investment
+  * [Return on investment](https://www.isixsigma.com/implementation/financial-analysis/calculating-roi-realize-project-value/)
   * System requirements
   * [Project management triangle](http://www.providentmediagroup.com/blog/pick-any-2/)
 * Simple Design
