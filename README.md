@@ -118,6 +118,7 @@ Below is a list of topics and links to relevant content from around the internet
 * [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 * [Package Principles](https://en.wikipedia.org/wiki/Package_principles)
 * [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
+  * [Martin Fowler - Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
   * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
 * Inversion of Control (Dependency Injection) Containers
   * [Ninject](http://www.ninject.org/)
