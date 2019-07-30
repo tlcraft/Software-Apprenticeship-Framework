@@ -127,6 +127,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Simple Container](https://caliburnmicro.com/documentation/simple-container)
   * [ASP.NET DI](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
   * [Service Locator Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
+  * [What's wrong with the ASP.NET Core DI abstraction](https://blog.simpleinjector.org/2016/06/whats-wrong-with-the-asp-net-core-di-abstraction/)
 * [Object Mapping](https://automapper.org/)
 * [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Persistence Frameworks](https://en.wikipedia.org/wiki/Persistence_framework)
