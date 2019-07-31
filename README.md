@@ -60,7 +60,6 @@ Below is a list of topics and links to relevant content from around the internet
   * [Vue.js](https://vuejs.org/)
   * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
   * [D3.js](https://d3js.org/)
-  * [Prettier](https://prettier.io/)
   * Accessibility
     * [Section 508 Compliance](https://www.section508.gov/)
     * [Analyzers](https://www.w3.org/WAI/ER/tools/)
@@ -128,6 +127,9 @@ Below is a list of topics and links to relevant content from around the internet
   * [ASP.NET DI](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
   * [Service Locator Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
   * [What's wrong with the ASP.NET Core DI abstraction](https://blog.simpleinjector.org/2016/06/whats-wrong-with-the-asp-net-core-di-abstraction/)
+* Development Tools
+  * [SonarQube](https://www.sonarqube.org/)
+  * [Prettier](https://prettier.io/)
 * [Object Mapping](https://automapper.org/)
 * [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Persistence Frameworks](https://en.wikipedia.org/wiki/Persistence_framework)
@@ -209,6 +211,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Security  
   * [Kali Linux](https://www.kali.org/)
 * Artificial Intelligence
+  * Neural Networks
+  * Machine Learning
 * [Progressive Web Applications](https://en.wikipedia.org/wiki/Progressive_web_applications)
 * [Single Page Applications](https://en.wikipedia.org/wiki/Single-page_application)
 * [Networking](https://en.wikipedia.org/wiki/Network_socket)  
