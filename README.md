@@ -131,6 +131,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [SonarQube](https://www.sonarqube.org/)
   * [Prettier](https://prettier.io/)
   * [Swagger](https://swagger.io/)
+  * [Swashbuckle](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio)
 * [Object Mapping](https://automapper.org/)
 * [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [Persistence Frameworks](https://en.wikipedia.org/wiki/Persistence_framework)
