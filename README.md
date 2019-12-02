@@ -76,7 +76,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [npm](https://www.npmjs.com/)
   * [NuGet](https://www.nuget.org/)
 * [Content Delivery Networks (CDNs)](https://en.wikipedia.org/wiki/Content_delivery_network)
-* DBA 
+* DBA
   * [Indexing](https://docs.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
   * Performance Profiling
   * [Query Optimization](https://www.sqlshack.com/query-optimization-techniques-in-sql-server-the-basics/)
@@ -116,6 +116,8 @@ Below is a list of topics and links to relevant content from around the internet
 * [Service granularity principle](https://en.wikipedia.org/wiki/Service_granularity_principle)
 * [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
 * [Package Principles](https://en.wikipedia.org/wiki/Package_principles)
+* [GRASP (object-oriented design)](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [Object Oriented Principles](https://www.tutorialspoint.com/object_oriented_analysis_design/ooad_object_oriented_principles.htm)
 * [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
   * [Martin Fowler - Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
   * [Valdis Iljuconoks - Dependency Injection: Revisit (.NET DD 2016)](https://www.youtube.com/watch?v=Q-Jw390UfBY&t=169s)
@@ -148,13 +150,13 @@ Below is a list of topics and links to relevant content from around the internet
   * [MOQ](https://github.com/moq/moq)
   * [Mockito](https://site.mockito.org/)
 * [JUnit](https://junit.org/junit5/)
-* Testing Methodologies 
+* Testing Methodologies
   * [Unit Tests](https://en.wikipedia.org/wiki/Unit_testing)
   * [Integration Tests](https://en.wikipedia.org/wiki/Integration_testing)
   * [System Testing](https://en.wikipedia.org/wiki/System_testing)
   * [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
   * [Performance Testing](https://en.wikipedia.org/wiki/Software_performance_testing)
-  * [Security Testing ](https://en.wikipedia.org/wiki/Security_testing)
+  * [Security Testing](https://en.wikipedia.org/wiki/Security_testing)
   * [Usability Testing](https://en.wikipedia.org/wiki/Usability_testing)
   * [Compatibility Testing](https://en.wikipedia.org/wiki/Compatibility_testing)
 * Scalability
@@ -174,7 +176,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Onion](https://www.infoq.com/news/2014/10/ddd-onion-architecture)
   * [N-Tier](https://en.wikipedia.org/wiki/Multitier_architecture)
   * [Hexagonal](https://blog.ndepend.com/hexagonal-architecture/)
-* UML 
+* UML
 * [Source Control](https://en.wikipedia.org/wiki/Version_control)
   * [git](https://git-scm.com/)
 * [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
@@ -186,8 +188,8 @@ Below is a list of topics and links to relevant content from around the internet
 * Computer Architecture
 * Bits and Bytes
 * [Soft Skills](https://en.wikipedia.org/wiki/Soft_skills)  
-  * Inclusion 
-  * Diversity 
+  * Inclusion
+  * Diversity
   * Equity
   * Listening
   * Empathy
@@ -261,7 +263,7 @@ Here is a list of some of the project assignments which 8th Light (a prominent c
   * Completed once acceptance tests pass, located here: https://github.com/8thlight/cob_spec  
   
 * Real consulting project  
-  * Build a tool for a non-profit 
+  * Build a tool for a non-profit
 
 Here are some other ideas to get more practice and experience.
 
