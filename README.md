@@ -70,8 +70,10 @@ Below is a list of topics and links to relevant content from around the internet
     * [Metro](https://en.wikipedia.org/wiki/Metro_(design_language))
     * [Hack Design](https://hackdesign.org/)
 * [Google Developers - Web](https://developers.google.com/web/)
-* Back-end  
-* [Node.js](https://nodejs.org/en/)
+* [.NET](https://dotnet.microsoft.com/)
+* Back-end
+  * [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+  * [Node.js](https://nodejs.org/en/)
 * Package Managers
   * [npm](https://www.npmjs.com/)
   * [NuGet](https://www.nuget.org/)
@@ -100,7 +102,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Design Patterns
   * [GOF Book](https://en.wikipedia.org/wiki/Design_Patterns)
   * [Source Making](https://sourcemaking.com/design_patterns)
-* [Object-oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design) 
+* [Object-oriented Design](https://en.wikipedia.org/wiki/Object-oriented_design)
   * [Inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
   * [Polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
   * [Generics](https://en.wikipedia.org/wiki/Generic_programming)
