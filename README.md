@@ -84,6 +84,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Query Optimization](https://www.sqlshack.com/query-optimization-techniques-in-sql-server-the-basics/)
     * [SQL Server](https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc137757(v=msdn.10))
 * [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+  * [Core Functional Programming Concepts by Aaron Krauss](https://thecodeboss.dev/2016/12/core-functional-programming-concepts/)
   * [Haskell](https://www.haskell.org/)
   * [Clojure](https://clojure.org/)
   * [F#](https://fsharp.org/)
