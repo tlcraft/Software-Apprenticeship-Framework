@@ -209,9 +209,10 @@ Below is a list of topics and links to relevant content from around the internet
 * Load Balancing
   * [F5](https://www.f5.com/services/resources/glossary/load-balancer)
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)  
-  * Continuous Integration, Continuous Delivery, and Continuous Deployment 
+  * Continuous Integration, Continuous Delivery, and Continuous Deployment
 * Task Runners
   * [Gulp](https://gulpjs.com/)
+  * [Grunt](https://gruntjs.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
 * [Azure](https://azure.microsoft.com/en-us/)
 * Containers
@@ -236,7 +237,6 @@ Below is a list of topics and links to relevant content from around the internet
 * Game Development
   * [Unity](https://unity3d.com/)
   * [Phaser](https://phaser.io/)
-* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * Operating Systems
   * [Operating System Basics](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * Linux command line
@@ -252,6 +252,7 @@ Below is a list of topics and links to relevant content from around the internet
 ## Events
 
 * [Global Day of Coderetreat](https://www.coderetreat.org/)
+* [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Apprenticeship Projects
 
