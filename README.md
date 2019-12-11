@@ -42,6 +42,10 @@ Below is a list of topics and links to relevant content from around the internet
     * [MySQL](https://www.mysql.com/)
     * [Oracle](https://docs.oracle.com/cd/B19306_01/server.102/b14220/intro.htm)
   * [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+* [Type System](https://en.wikipedia.org/wiki/Type_system)
+  * [Introduction to Static and Dynamic Typing](https://www.sitepoint.com/typing-versus-dynamic-typing/)
+  * [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
+  * [Stack Overflow - What is the difference between statically typed and dynamically typed languages?](https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages)
 * Front-end  
   * [World Wide Web Consortium - W3C](https://www.w3.org/)
   * [Bootstrap](https://getbootstrap.com/)
