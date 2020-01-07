@@ -61,7 +61,9 @@ Below is a list of topics and links to relevant content from around the internet
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
+    * [Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
   * [Vue.js](https://vuejs.org/)
+  * [Micro Frontends](https://micro-frontends.org/)
   * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
   * [D3.js](https://d3js.org/)
   * Accessibility
