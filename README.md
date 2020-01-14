@@ -250,6 +250,7 @@ Below is a list of topics and links to relevant content from around the internet
 * Linux command line
   * [cmder](http://cmder.net/)
 * Open Source Software
+  * [Open Source Initiative](https://opensource.org/)
   * [Licenses](https://en.wikipedia.org/wiki/Open-source_license)
   * [How to choose a license](https://choosealicense.com/)
   * [Copyright](https://en.wikipedia.org/wiki/Software_copyright)
