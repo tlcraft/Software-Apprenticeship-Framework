@@ -58,12 +58,14 @@ Below is a list of topics and links to relevant content from around the internet
     * [Tour of Heroes](https://angular.io/tutorial)
     * [Full Angular 6 Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
     * [ngrx](https://github.com/ngrx/platform)
+    * [ngrx.io](https://ngrx.io/)
   * React
     * [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
     * [Hello World](https://reactjs.org/docs/hello-world.html)
     * [Declarative vs Imperative Programming](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2)
   * [Vue.js](https://vuejs.org/)
   * [Micro Frontends](https://micro-frontends.org/)
+  * [ReactiveX](http://reactivex.io/)
   * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
   * [D3.js](https://d3js.org/)
   * Accessibility
