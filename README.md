@@ -187,6 +187,7 @@ Below is a list of topics and links to relevant content from around the internet
   * [Onion](https://www.infoq.com/news/2014/10/ddd-onion-architecture)
   * [N-Tier](https://en.wikipedia.org/wiki/Multitier_architecture)
   * [Hexagonal](https://blog.ndepend.com/hexagonal-architecture/)
+  * [Command Query Responsibility Segregation](https://martinfowler.com/bliki/CQRS.html)
 * UML
 * [Source Control](https://en.wikipedia.org/wiki/Version_control)
   * [git](https://git-scm.com/)
