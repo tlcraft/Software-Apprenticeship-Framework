@@ -66,7 +66,8 @@ Below is a list of topics and links to relevant content from around the internet
   * [Vue.js](https://vuejs.org/)
   * [Micro Frontends](https://micro-frontends.org/)
   * [ReactiveX](http://reactivex.io/)
-  * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
+    * [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
+    * [Learn RxJS](https://www.learnrxjs.io/)
   * [D3.js](https://d3js.org/)
   * Accessibility
     * [Section 508 Compliance](https://www.section508.gov/)
