@@ -78,6 +78,8 @@ Below is a list of topics and links to relevant content from around the internet
     * [Material](https://material.io/)
     * [Metro](https://en.wikipedia.org/wiki/Metro_(design_language))
     * [Hack Design](https://hackdesign.org/)
+  * Pattern Libraries
+    * [Storybook](https://storybook.js.org/)
 * [Google Developers - Web](https://developers.google.com/web/)
 * [.NET](https://dotnet.microsoft.com/)
 * Back-end
