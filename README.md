@@ -69,6 +69,7 @@ Below is a list of topics and links to relevant content from around the internet
     * [RxJS](https://rxjs.dev/guide/overview)
     * [Learn RxJS](https://www.learnrxjs.io/)
   * [D3.js](https://d3js.org/)
+  * [Jest](https://jestjs.io/)
   * Accessibility
     * [Section 508 Compliance](https://www.section508.gov/)
     * [Analyzers](https://www.w3.org/WAI/ER/tools/)
