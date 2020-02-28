@@ -144,6 +144,8 @@ Below is a list of topics and links to relevant content from around the internet
   * [ASP.NET DI](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
   * [Service Locator Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
   * [What's wrong with the ASP.NET Core DI abstraction](https://blog.simpleinjector.org/2016/06/whats-wrong-with-the-asp-net-core-di-abstraction/)
+* Application Performance
+  * [Measure app performance in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/profiling/?view=vs-2019)
 * Development Tools
   * [SonarQube](https://www.sonarqube.org/)
   * [Prettier](https://prettier.io/)
