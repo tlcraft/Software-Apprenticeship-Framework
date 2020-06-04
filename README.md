@@ -208,6 +208,7 @@ Below is a list of topics and links to relevant content from around the internet
 * [Soft Skills](https://en.wikipedia.org/wiki/Soft_skills)  
   * Inclusion
   * Diversity
+    * [An Intro to Diversity and Inclusion in Business: Resources for HR, Hiring, Managers, Founders, and Allies](https://open.buffer.com/diversity-inclusion/)
   * Equity
   * Listening
   * Empathy
