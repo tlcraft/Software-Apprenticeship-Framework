@@ -211,6 +211,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Equity
   * Listening
   * Empathy
+    * [Empathy: an essential skill in Software Development](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
 * [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Dealing with Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
 * Blogging and Teaching  
