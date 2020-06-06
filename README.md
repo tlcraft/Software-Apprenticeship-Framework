@@ -206,9 +206,9 @@ Below is a list of topics and links to relevant content from around the internet
 * Computer Architecture
 * Bits and Bytes
 * [Soft Skills](https://en.wikipedia.org/wiki/Soft_skills)  
-  * Inclusion
-  * Diversity
+  * Diversity and Inclusion
     * [An Intro to Diversity and Inclusion in Business: Resources for HR, Hiring, Managers, Founders, and Allies](https://open.buffer.com/diversity-inclusion/)
+    * [Why diversity in tech is important](https://devskiller.com/diversity-in-tech/)
   * Equity
   * Listening
   * Empathy
