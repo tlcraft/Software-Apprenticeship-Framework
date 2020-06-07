@@ -209,7 +209,9 @@ Below is a list of topics and links to relevant content from around the internet
   * Diversity and Inclusion
     * [An Intro to Diversity and Inclusion in Business: Resources for HR, Hiring, Managers, Founders, and Allies](https://open.buffer.com/diversity-inclusion/)
     * [Why diversity in tech is important](https://devskiller.com/diversity-in-tech/)
+    * [Diversity and Inclusion from the POV of a Female Software Engineer](https://medium.com/tribalscale/diversity-and-inclusion-from-the-pov-of-a-female-software-engineer-472954bb67b3)
   * Equity
+    * [What Is Racial Equity?](https://www.centerforsocialinclusion.org/our-work/what-is-racial-equity/)
   * Listening
   * Empathy
     * [Empathy: an essential skill in Software Development](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
