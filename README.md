@@ -213,6 +213,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Equity
     * [What Is Racial Equity?](https://www.centerforsocialinclusion.org/our-work/what-is-racial-equity/)
   * Listening
+    * [What Great Listeners Actually Do](https://hbr.org/2016/07/what-great-listeners-actually-do)
   * Empathy
     * [Empathy: an essential skill in Software Development](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
 * [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
