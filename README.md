@@ -216,6 +216,7 @@ Below is a list of topics and links to relevant content from around the internet
     * [What Great Listeners Actually Do](https://hbr.org/2016/07/what-great-listeners-actually-do)
   * Empathy
     * [Empathy: an essential skill in Software Development](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
+  * [Soft Skills Engineering Podcast](https://softskills.audio/)
 * [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Dealing with Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
 * Blogging and Teaching  
