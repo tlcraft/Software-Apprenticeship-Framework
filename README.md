@@ -220,6 +220,7 @@ Below is a list of topics and links to relevant content from around the internet
   * Empathy
     * [Empathy: an essential skill in Software Development](https://codingwithempathy.com/2016/05/03/empathy-an-essential-skill-in-software-development/)
   * [Soft Skills Engineering Podcast](https://softskills.audio/)
+  * [Anti-harassment Policy Template](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy)
 * [Imposter Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 * [Dealing with Failure](https://hbr.org/2011/04/strategies-for-learning-from-failure)
 * Blogging and Teaching  
